@@ -1,2 +1,4 @@
 # example-game
-test Github
+test Githup 
+
+I´m testing first time Githgub & Git
